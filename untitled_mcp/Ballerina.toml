@@ -1,0 +1,9 @@
+[package]
+org = "dann"
+name = "untitled_mcp"
+version = "0.1.0"
+distribution = "2201.14.1"
+title = "Untitled MCP"
+
+[build-options]
+sticky = true
